@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>989070995117-0vmp5rq6vr9f359mpp3ff637hca0qc9n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.989070995117-0vmp5rq6vr9f359mpp3ff637hca0qc9n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>989070995117-31mmelhlc8pakoml42blj9b7aj5de257.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6vFnunUISPuUMOp3rUgfw0BrKItixWLU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>989070995117</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.todoList</string>
+	<key>PROJECT_ID</key>
+	<string>todo-flow-489ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todo-flow-489ce.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:989070995117:ios:1b65656a974cf69dd7a024</string>
+	<key>DATABASE_URL</key>
+	<string>https://todo-flow-489ce-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
