@@ -19,4 +19,3 @@ A scalable and maintainable Todo application built using **Flutter**, powered by
 
 This project follows **Clean Architecture**, ensuring scalability, testability, and maintainability.
 
-### Layers:
