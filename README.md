@@ -1,16 +1,22 @@
-# todo_list
+# 📝 Todo Flow App
 
-A new Flutter project.
+A scalable and maintainable Todo application built using **Flutter**, powered by **Riverpod** for state management and structured with **Clean Architecture** principles.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add, update, delete todos
+- 📂 Organized task management
+- 🔄 Reactive UI with Riverpod
+- 🧠 Separation of concerns using Clean Architecture
+- 💾 Local storage (can be extended to API)
+- 🌙 Light/Dark theme support (optional)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗️ Architecture
+
+This project follows **Clean Architecture**, ensuring scalability, testability, and maintainability.
+
+### Layers:
