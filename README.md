@@ -17,4 +17,4 @@ A scalable and maintainable Todo application built using **Flutter**, powered by
 
 ## 🏗️ Architecture
 
-This project follows **Clean Architecture**, ensuring scalability, testability, and maintainability
+This project follows **Clean Architecture**, ensuring scalability, testability, and maintainability..
