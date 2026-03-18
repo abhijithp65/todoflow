@@ -6,32 +6,23 @@ A modern, clean, and scalable Todo application built using **Flutter**, powered 
 
 ## 📱 App Screens
 
-### 🔐 Login Screen
-
-![Login](./screenshots/login.png)
-
-### 🆕 Create Account Screen
-
-![Signup](./screenshots/signup.png)
-
-### 📋 Home / Todo Dashboard
-
-![Home](./screenshots/home.png)
+<p align="center">
+  <img src="./screenshots/login.png" width="30%" />
+  <img src="./screenshots/signup.png" width="30%" />
+  <img src="./screenshots/home.png" width="30%" />
+</p>
 
 ---
 
 ## 🚀 Features
 
-* 🔐 Email & Password Authentication
-* 🔑 Google Sign-In support
-* 🆕 User Registration (Create Account)
-* 📋 View all tasks in a clean dashboard
-* ➕ Create new tasks
-* ✅ Mark tasks as completed
-* 📊 Task summary (Total / Active / Done)
-* 🔄 Filter tasks (All / Active / Completed)
-* 🎯 Progress indicator (completion %)
-* 🌙 Beautiful dark UI
+* 🔐 Auth (Email + Google)
+* 🆕 User Registration
+* 📋 Task Dashboard
+* ➕ Add / ✅ Complete Tasks
+* 📊 Task Stats (Total / Active / Done)
+* 🔄 Filters (All / Active / Completed)
+* 🎯 Progress Indicator
 
 ---
 
@@ -56,11 +47,9 @@ lib/
 
 ## 🎨 UI Highlights
 
-* Minimal and modern dark theme
-* Rounded input fields and cards
-* Clean task cards with status indicators
-* Floating action button for quick task creation
-* Smooth and intuitive UX
+* 🌙 Modern dark theme
+* 🧩 Clean cards & rounded inputs
+* ⚡ Smooth UX
 
 ---
 
@@ -70,34 +59,6 @@ lib/
 * **Dart**
 * **Riverpod**
 * **Clean Architecture**
-
----
-
-## 📦 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/todoflow.git
-
-# Navigate into project
-cd todoflow
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
----
-
-## 📌 Future Improvements
-
-* 🔔 Notifications & reminders
-* ☁️ Backend integration (Firebase / REST API)
-* 🗂️ Categories & tags
-* ✏️ Edit task screen
-* 📅 Due date picker improvements
 
 ---
 
